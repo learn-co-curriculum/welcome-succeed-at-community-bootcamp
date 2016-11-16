@@ -1,8 +1,12 @@
 # Succeeding in Community-Powered Bootcamp
 
-## Overview
+## Welcome!
 
-There’s no way around it: learning to code is hard work. It takes dedication, grit, and most of all, a passion for learning. We have high expectations for all Flatiron School students, and we’re consistently blown away by how they rise to the occasion. As a new member of Community-Powered Bootcamp, you’re taking your coding education into your own hands, and it’s all the more important to embody these qualities. So how can you succeed in this program?  
+Welcome! We’re excited to have you join the first ever community-driven coding bootcamp. 
+
+As a member of the Community-Powered Bootcamp, you have access to the same Full Stack Web Development curriculum used in our in-person and instructor-led programs. It’s a lot of content to get through—over 800 hours of lessons and projects—and, like most things worth doing, it will be hard at times. But we promise that if you commit yourself, this will be a learning experience like no other.
+
+We have high expectations for all Flatiron School students, and we’re consistently blown away by how they rise to the occasion. As a new member of Community-Powered Bootcamp, you’re taking your coding education into your own hands, and it’s all the more important to embody these qualities. So how can you succeed in this program?  
 
 ### Be Diligent
 
@@ -14,14 +18,17 @@ You can keep track of your progress through the homepage, where you will see you
 
 We call this program “Community-Powered” for a reason! The absolute best way to tackle the curriculum—and learn most effectively—is to be active and engaged with other learners in the Learn community. Take advantage of specific features built for communicating and collaborating with your fellow students:
 
-Ask a Question: When you’re unsure about something, the Ask a Question button lets you crowdsource answers and advice from other Learners. 
-[screenshot]
+* **Ask a Question**: When you’re unsure about something, the Ask a Question button lets you crowdsource answers and advice from other Learners.
 
-Study Groups: Students can easily join (or start their own) video- and screen-sharing-equipped study groups to work through tough concepts as a group. 
-[screenshot]
+<img src='https://s3.amazonaws.com/learn-verified/AAQ.png' alt='AAQ' style='max-width=600px;' />
 
-Learn Chat: Chat with any student on Learn through our Chat Lobby or find students in the same lesson as you to work through it together.
-[screenshot]
+* **Study Groups**: Students can easily join (or start their own) video- and screen-sharing-equipped study groups to work through tough concepts as a group.
+
+<img src='https://s3.amazonaws.com/learn-verified/StudyGroups.png' alt='Study Groups' style='max-width=600px;'/>
+
+* **Learn Chat**: Chat with any student on Learn through our Chat Lobby or find students in the same lesson as you to work through it together.
+
+<img src='https://s3.amazonaws.com/learn-verified/LearnChat.png' alt='Learn Chat' style='max-width=600px;'/>
 
 Start participating today—you’ll be surprised by how much you can learn by simply talking about code on a regular basis. 
 
@@ -29,13 +36,13 @@ Start participating today—you’ll be surprised by how much you can learn by s
 
 Our approach has always been to provide a rigorous course of study that will prepare you for a career as a software developer. You won’t find every answer directly in the curriculum, and that’s by design. We expect you to be scrappy and resilient (just as you’d have to be on the job as a developer!) when tackling each new challenge. When you find yourself stuck, here are the steps you should take:
 
-Read your Error Message - You can’t solve the error if you don’t know what it is!
+1. **Read your Error Message** - You can’t solve the error if you don’t know what it is!
 
-Google your problem - Now that you know what you’re looking for, explore Stack Overflow and other resources on the web to find a solution yourself.
+2. **Google your problem** - Now that you know what you’re looking for, explore Stack Overflow and other resources on the web to find a solution yourself.
 
-Review the Help Center - Be sure to check here if you find yourself hitting a wall on a technical problem (ie - using the Learn IDE, GitHub, or questions about your Learn Account)
+3. **Review the Help Center** - Be sure to check [here](https://help.learn.co/hc/en-us) if you find yourself hitting a wall on a technical problem (ie - using the Learn IDE, GitHub, or questions about your Learn Account)
 
-Ask a Peer - If all else fails, ask a neighbor or friend within the platform for help. 
+4. **Ask a Peer** - If all else fails, ask a neighbor or friend within the platform for help. 
 
 Toughing it out from time to time will make you a better problem solver—and a better developer!
 
