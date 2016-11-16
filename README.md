@@ -20,15 +20,21 @@ We call this program “Community-Powered” for a reason! The absolute best way
 
 * **Ask a Question**: When you’re unsure about something, the Ask a Question button lets you crowdsource answers and advice from other Learners.
 
+<div style='text-align: center;'>
 <img src='https://s3.amazonaws.com/learn-verified/AAQ.png' alt='AAQ' style='max-width=600px;' />
+</div>
 
 * **Study Groups**: Students can easily join (or start their own) video- and screen-sharing-equipped study groups to work through tough concepts as a group.
 
+<div style='text-align: center;'>
 <img src='https://s3.amazonaws.com/learn-verified/StudyGroups.png' alt='Study Groups' style='max-width=600px;'/>
+</div>
 
 * **Learn Chat**: Chat with any student on Learn through our Chat Lobby or find students in the same lesson as you to work through it together.
 
+<div style='text-align: center;'>
 <img src='https://s3.amazonaws.com/learn-verified/LearnChat.png' alt='Learn Chat' style='max-width=600px;'/>
+</div>
 
 Start participating today—you’ll be surprised by how much you can learn by simply talking about code on a regular basis. 
 
