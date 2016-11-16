@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-Welcome! We’re excited to have you join the first ever community-driven coding bootcamp. 
+We’re excited to have you join the first ever community-driven coding bootcamp. 
 
 As a member of the Community-Powered Bootcamp, you have access to the same Full Stack Web Development curriculum used in our in-person and instructor-led programs. It’s a lot of content to get through—over 800 hours of lessons and projects—and, like most things worth doing, it will be hard at times. But we promise that if you commit yourself, this will be a learning experience like no other.
 
@@ -13,6 +13,10 @@ We have high expectations for all Flatiron School students, and we’re consiste
 Learn works for so many students because it’s online, self-paced approach provides the flexibility to balance learning to code with your life—holding a job, raising a family, and countless other situations shared by our community of learners. But it’s important to remember that there are over 800 hours of rigorous curriculum to get through. To succeed, you’ll need to maintain a consistent learning schedule. Try to carve out time to spend on Learn every day—spending a dedicated hour every morning is very different than cramming seven hours into one weekend day. 
 
 You can keep track of your progress through the homepage, where you will see your Learning Streak (how many days in a row you’ve put in work on Learn) and Velocity (your pace through the curriculum).
+
+<div style='text-align: center;'>
+<img src='https://s3.amazonaws.com/learn-verified/UserProfile.png' alt='UserProfile' style='max-width=600px;' />
+</div>
 
 ### Be Social
 
