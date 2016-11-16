@@ -48,7 +48,7 @@ Our approach has always been to provide a rigorous course of study that will pre
 
 1. **Read your Error Message** - You can’t solve the error if you don’t know what it is!
 
-2. **Google your problem** - Now that you know what you’re looking for, explore Stack Overflow and other resources on the web to find a solution yourself.
+2. **Google your problem** - Now that you know what you’re looking for, explore [Stack Overflow](http://stackoverflow.com) and other resources on the web to find a solution yourself.
 
 3. **Review the Help Center** - Be sure to check [here](https://help.learn.co/hc/en-us) if you find yourself hitting a wall on a technical problem (ie - using the Learn IDE, GitHub, or questions about your Learn Account)
 
