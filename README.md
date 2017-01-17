@@ -10,7 +10,7 @@ We have high expectations for all Flatiron School students, and we’re consiste
 
 ### Be Diligent
 
-Learn works for so many students because it’s online, self-paced approach provides the flexibility to balance learning to code with your life—holding a job, raising a family, and countless other situations shared by our community of learners. But it’s important to remember that there are over 800 hours of rigorous curriculum to get through. To succeed, you’ll need to maintain a consistent learning schedule. Try to carve out time to spend on Learn every day—spending a dedicated hour every morning is very different than cramming seven hours into one weekend day. 
+Learn works for so many students because its online, self-paced approach provides the flexibility to balance learning to code with your life—holding a job, raising a family, and countless other situations shared by our community of learners. But it’s important to remember that there are over 800 hours of rigorous curriculum to get through. To succeed, you’ll need to maintain a consistent learning schedule. Try to carve out time to spend on Learn every day—spending a dedicated hour every morning is very different than cramming seven hours into one weekend day. 
 
 You can keep track of your progress through the homepage, where you will see your Learning Streak (how many days in a row you’ve put in work on Learn) and Velocity (your pace through the curriculum).
 
@@ -61,3 +61,5 @@ Toughing it out from time to time will make you a better problem solver—and a 
 And last but not least: give back to the community. Flatiron School has a long history of students supporting other students across our programs, and we especially hope this will remain true in Community-Powered Bootcamp. Whether you’re answering a fellow student’s question about a tricky issue you just tackled, hosting a study group to work on a Lab as a team, or simply taking the time to celebrate one another’s success on Learn, this is what will keep the Community strong—and create the best learning environment for each and every student.
 
 Now, let's learn together! 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/welcome-succeed-at-community-bootcamp'>Succeeding in Community Bootcamp</a> on Learn.co and start learning to code for free.</p>
